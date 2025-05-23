@@ -1,0 +1,12 @@
+App.jsx
+ ├── cardapiodaloja.jsx
+ └── pedidos.jsx
+
+[Interface (Componentes Visuais)]
+	      ↓
+[Lógica de Negócio (Funções/Estados)]
+	      ↓
+[Acesso a Dados (ingretientes,preços)]
+
+Interface: JSX visível ao usuário.
+Acesso aos Dados: cordapio
