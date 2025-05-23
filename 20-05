@@ -1,0 +1,86 @@
+ANÁLISE E PROJETO DE SISTEMAS
+TEMA: VIABILIDADE, RISCO E DOCUMENTAÇÃO EM PROJETO DE SOFTWARE
+
+-Por que avaliar antes de desenvolver?
+
+um projeto mal planejatado.
+-Estourar o orçamento
+-perder prazos.
+-criar sistema inúteis ou com falhas graves.
+
+3 aspectos essenciais de um projeto
+
+1. **Viabilidade**
+
+          TIPO        |   O QUE AVALIA?
+         técnica      |  A tecnologia necessária está disponivel?
+        Econômico     |  O custo vale a pena?
+                      |
+          Legal       | Está de acordo com leis e normas?
+         Operacional  | Os usuarios saberão usar? O sistema se adapta á rotina do usuário?
+         Cronograma   | dá tempo de fazer?      
+
+2. **Análise de Riscos**
+É qualquer fator que possa atrapalhar ou impedir o sucesso do projeto.
+Técnico: usar uma tecnologia pouco conhecida 
+de requisitos: requesitos mal definidos. 
+de cronograma: prazos curtos ou equipe reduzida.
+Humanos: rotatividade da equipe, falta de experiência
+Externos:leis novas, fornecedores que falham.
+
+▲ Matriz de Ricos (impcto x Probabilidade):
+   
+   Baixa              baixo     Alto
+                    +----------------------+
+ Probabilidade      |   ok   | Cuidado     |
+                    +----------------------+
+   Alta             | Alerta |  Perigo!    |
+                    +----------------------+
+
+
+3. **Documentação de Requisitos** 
+
+  Por que documentar? 
+Facilita o entendimento entre cliente e equipe. 
+Evita erros por mal-entendidos. 
+Serve como guia de desenvolvimento. 
+
+ Documentos principais:
+ 
+### 1. **SRS (Software Requirements Specification)** 
+Objetivo do sistema 
+Requisitos funcionais (o que o sistema deve fazer) 
+Requisitos não funcionais (desempenho, segurança, usabilidade)
+ 
+### 2. **Casos de Uso** 
+Representam **ações que os usuários fazem no sistema**. 
+Incluem **atores** (quem usa) e **cenários** (passo a passo). 
+
+**Exemplo:Caso de Uso:** Realizar login 
+**Ator:** Usuário 
+**Fluxo básico:** 
+1. Usuário informa login e senha 
+2. Sistema verifica 
+3. Usuário é redirecionado para o painel 
+
+
+**Exemplo:** 
+Termo       Significado 
+---         ---
+Frontend     Parte visual do sistema 
+             
+CRUD         Operações de Criar, Ler, Atualizar, Deletar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
