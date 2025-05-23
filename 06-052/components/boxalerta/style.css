@@ -1,0 +1,7 @@
+.box-container {
+    background-color: chocolate;
+    border-radius: 10px;
+    padding: 10px 15px;
+    border: 10px solid rgb(62, 31, 9);
+    color: white;
+}
