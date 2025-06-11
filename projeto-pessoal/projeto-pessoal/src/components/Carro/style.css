@@ -1,0 +1,23 @@
+
+.carro {
+  background-color: var(--gray);
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+}
+
+.carro .description {
+  padding: 10px;
+  margin: 10px;
+  text-align: justify;
+}
+
+.carro img {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+}
